@@ -1,0 +1,16 @@
+ <!DOCTYPE html>
+ <html>
+ 	<head>
+		<meta charset="UTF-8">
+		<title><!--TITULO PAGINA EN PESTAÑA--></title>
+		<link rel="stylesheet" href="reset.css">
+		<style type="text/css">/*CODIGO CSS*/</style>
+   </head>	
+ 	<body>
+ <!--INICIA CODIGO HTML-->
+ 
+
+ 		<script src="main.js"></script>
+		<script type="text/javascript">/*CODIGO JAVASCRIPT*/</script>
+    </body>
+</html>
